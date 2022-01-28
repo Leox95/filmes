@@ -1,0 +1,18 @@
+.caixaFilmes{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+}
+.saibaMais{
+    text-decoration: none;
+    background-color: crimson;
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-size: 25px;
+    font-weight: bold;
+}
