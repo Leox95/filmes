@@ -1,0 +1,22 @@
+.caixa{
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    text-align: center;
+}
+span{
+    font-size: 15px;
+    font-weight: bold;
+}
+li{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1em;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}

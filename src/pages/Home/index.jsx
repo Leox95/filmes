@@ -27,7 +27,7 @@ function Home() {
             <div className="caixaFilmes" key={filme.id}>
               <h1>{filme.nome}</h1>
               <img src={filme.foto}/>
-              <Link className="saibaMais"to="/">Saiba mais</Link>
+              <Link className="saibaMais"to={`/filme/${filme.id}`}>Saiba mais</Link>
             </div>
           )
         })}

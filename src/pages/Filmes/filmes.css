@@ -1,0 +1,12 @@
+.caixaFilmes{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    flex-direction: column;
+}
+button{
+    color: white;
+    background-color: crimson;
+    font-size: 20px;
+}
