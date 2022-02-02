@@ -4,7 +4,7 @@ header{
     height: 80px;
     background-color: crimson;
     color: white;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
 }
 .filme{
